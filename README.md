@@ -19,3 +19,5 @@ No lo complete por el error que tuve en el snapshot (lib/pages/todos.dart linea 
 Minuto y segundo donde me detuve del tutorial 18:33
 
 ==> !snapshot.hasData  verdadero 
+
+para ejecutarlo modificar package y pegar "google-services.json" donde corresponda
