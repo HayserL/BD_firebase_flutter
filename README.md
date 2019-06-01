@@ -16,4 +16,4 @@ Base de datos Cloud Firestore, StreamBuilder, Dismissible, AlertDialog
 
 No lo complete por el error que tuve en el snapshot (lib/pages/todos.dart linea 47 "es donde se detiene no donde esta el error") cuando pasa por la condicional.
 Minuto y segundo donde me detuve del tutorial 18:33
-==> if (!snapshot.hasData) es verdadero 
+==> !snapshot.hasData  verdadero 
