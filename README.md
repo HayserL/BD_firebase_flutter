@@ -1,16 +1,13 @@
-# prueba_bd
+# Guiado por un tutorial de Kevin Rodríguez
 
-A new Flutter project.
+Kevin Rodríguez youtube ==> https://www.youtube.com/channel/UC70_WynyShWI3BpM7kMzh_Q
 
-## Getting Started
+## Tutoriales
+Firebase y Flutter, Parte 1: Arquitectura , rutas , navegación, login y registro.   ==> https://www.youtube.com/watch?v=0xf7FLXccD0
+Firebase y Flutter, Parte 2: Autenticación, Navegación de Tabs y Forms              ==> https://www.youtube.com/watch?v=G0BWoY_0hXY
+Firebase y Flutter, Parte 3: Base de datos Cloud Firestore, StreamBuilder,
+Dismissible, AlertDialog                                                            ==> https://www.youtube.com/watch?v=bvkiBi8sMcM
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+No lo complete por el error que tuve en el snapshot (lib/pages/todos.dart linea 47 "es donde se detiene no donde esta el error") cuando pasa por la condicional.
+Minuto y segundo donde me detuve del tutorial 18:33
+==> if (!snapshot.hasData) es verdadero 
